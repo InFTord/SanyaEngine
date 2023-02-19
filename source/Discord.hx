@@ -45,7 +45,7 @@ class DiscordClient
 			details: "В Меню/In Menus",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "Зона Рэпа С Саней"
+			largeImageText: "Psych Engine"
 		});
 	}
 
